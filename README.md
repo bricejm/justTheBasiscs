@@ -1,2 +1,2 @@
-# justTheBasiscs
+# justTheBasics
 Simple HTML coding
